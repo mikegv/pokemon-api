@@ -6,6 +6,7 @@
 
 .App{
   background: url('./pikachuBG.jpg') no-repeat;
-  background-size: contain;
-  height: 100vh;
+  background-size: auto;
+  background-position: -30px 0px;
+  min-height:100vh;
 }
